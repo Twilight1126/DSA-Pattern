@@ -121,3 +121,15 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 ---
 
 ⭐ This repo isn't optimized for showing off polished solutions — it's optimized for showing *honest* progress, including the brute-force first attempts. That's the whole point.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
