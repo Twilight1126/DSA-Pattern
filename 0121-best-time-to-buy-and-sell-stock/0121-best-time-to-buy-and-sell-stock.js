@@ -12,7 +12,8 @@ var maxProfit = function (prices) {
         }
        else {
             let profit = prices[i] - minprice;
-            if (profit > maxValue) maxValue = profit;    
+            if(profit > maxValue)
+            maxValue = profit;  
         }
     }
     return maxValue;
