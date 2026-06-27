@@ -129,6 +129,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | ------- |
 | [0001-two-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Twilight1126/DSA-Pattern/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Twilight1126/DSA-Pattern/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Twilight1126/DSA-Pattern/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -145,4 +146,8 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Twilight1126/DSA-Pattern/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Twilight1126/DSA-Pattern/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Twilight1126/DSA-Pattern/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
