@@ -131,16 +131,19 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Twilight1126/DSA-Pattern/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Twilight1126/DSA-Pattern/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Twilight1126/DSA-Pattern/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Twilight1126/DSA-Pattern/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -156,4 +159,9 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Twilight1126/DSA-Pattern/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
