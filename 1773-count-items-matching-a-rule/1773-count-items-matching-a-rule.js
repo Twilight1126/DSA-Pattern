@@ -5,16 +5,12 @@
  * @return {number}
  */
 var countMatches = function (items, ruleKey, ruleValue) {
-    let count = 0;
-    let index;
-    if (ruleKey === 'type') index = 0;
-    else if (ruleKey === 'color') index = 1;
-    else index = 2;
-    for (let i = 0; i < items.length; i++) {
-        if (items[i][index] === ruleValue) {
-            count++;
+    let count  = 0;
+    let index = {'type': 0, 'color': 1 ,'name': 2};
+    for(let  i = 0 ; i  < items.length; i++){
+       if(items[i][index[ruleKey]] === ruleValue){
+           count++
         }
     }
     return count;
-
 };
