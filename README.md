@@ -134,6 +134,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Twilight1126/DSA-Pattern/tree/master/0283-move-zeroes) |
+| [1773-count-items-matching-a-rule](https://github.com/Twilight1126/DSA-Pattern/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,4 +171,5 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Twilight1126/DSA-Pattern/tree/master/0383-ransom-note) |
+| [1773-count-items-matching-a-rule](https://github.com/Twilight1126/DSA-Pattern/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
