@@ -172,4 +172,8 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | ------- |
 | [0383-ransom-note](https://github.com/Twilight1126/DSA-Pattern/tree/master/0383-ransom-note) |
 | [1773-count-items-matching-a-rule](https://github.com/Twilight1126/DSA-Pattern/tree/master/1773-count-items-matching-a-rule) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Twilight1126/DSA-Pattern/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
