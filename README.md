@@ -173,10 +173,16 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | ------- |
 | [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/Twilight1126/DSA-Pattern/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Twilight1126/DSA-Pattern/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/Twilight1126/DSA-Pattern/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Twilight1126/DSA-Pattern/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/Twilight1126/DSA-Pattern/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Twilight1126/DSA-Pattern/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
