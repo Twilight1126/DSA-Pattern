@@ -139,6 +139,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Twilight1126/DSA-Pattern/tree/master/0383-ransom-note) |
@@ -170,10 +171,12 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/Twilight1126/DSA-Pattern/tree/master/0383-ransom-note) |
 | [1773-count-items-matching-a-rule](https://github.com/Twilight1126/DSA-Pattern/tree/master/1773-count-items-matching-a-rule) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Twilight1126/DSA-Pattern/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
