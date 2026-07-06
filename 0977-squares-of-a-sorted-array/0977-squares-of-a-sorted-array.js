@@ -5,7 +5,7 @@
 var sortedSquares = function (nums) {
     let left = 0;
     let right = nums.length - 1;
-    let k = nums.length - 1;
+    let k = right;
     let result = new Array(k);
 
     while ( left <= right) {
