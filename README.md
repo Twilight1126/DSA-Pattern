@@ -136,6 +136,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Twilight1126/DSA-Pattern/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Twilight1126/DSA-Pattern/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Twilight1126/DSA-Pattern/tree/master/0977-squares-of-a-sorted-array) |
 | [1773-count-items-matching-a-rule](https://github.com/Twilight1126/DSA-Pattern/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
@@ -193,4 +194,8 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Twilight1126/DSA-Pattern/tree/master/0412-fizz-buzz) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Twilight1126/DSA-Pattern/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
