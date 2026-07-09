@@ -134,6 +134,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0088-merge-sorted-array](https://github.com/Twilight1126/DSA-Pattern/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Twilight1126/DSA-Pattern/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Twilight1126/DSA-Pattern/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Twilight1126/DSA-Pattern/tree/master/0643-maximum-average-subarray-i) |
@@ -200,5 +201,14 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twilight1126/DSA-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Twilight1126/DSA-Pattern/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
