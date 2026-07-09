@@ -9,10 +9,10 @@ var minSubArrayLen = function (target, nums) {
     let minlen = Infinity;
 
     for (let right = 0; right < nums.length; right++) {
-        sum = sum + nums[right];
+        sum += nums[right];
         while (sum >= target) {
             minlen = Math.min(minlen, right - left + 1);
-            sum = sum - nums[left];
+            sum -= nums[left];
             left++;
         }
     }
