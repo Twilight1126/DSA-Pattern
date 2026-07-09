@@ -143,6 +143,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Twilight1126/DSA-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
@@ -180,6 +181,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Twilight1126/DSA-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/Twilight1126/DSA-Pattern/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Twilight1126/DSA-Pattern/tree/master/0412-fizz-buzz) |
@@ -197,5 +199,6 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Twilight1126/DSA-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Twilight1126/DSA-Pattern/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
