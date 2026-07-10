@@ -148,6 +148,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Twilight1126/DSA-Pattern/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Twilight1126/DSA-Pattern/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
@@ -155,6 +156,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0088-merge-sorted-array](https://github.com/Twilight1126/DSA-Pattern/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Twilight1126/DSA-Pattern/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Twilight1126/DSA-Pattern/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -186,6 +188,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twilight1126/DSA-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Twilight1126/DSA-Pattern/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Twilight1126/DSA-Pattern/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Twilight1126/DSA-Pattern/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Twilight1126/DSA-Pattern/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Twilight1126/DSA-Pattern/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/Twilight1126/DSA-Pattern/tree/master/1773-count-items-matching-a-rule) |
