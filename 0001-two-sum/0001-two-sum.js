@@ -4,14 +4,15 @@
  * @return {number[]}
  */
 var twoSum = function (nums, target) {
-    let seen = new Map();
-    for(let i = 0; i < nums.length; i++){
-        let complement = target - nums[i];
-        if(seen.has(complement)){
-            return [seen.get(complement),i];
+    let store = new Map();
+    for(let  i = 0; i < nums.length; i++){
+        let result = target - nums[i];
+        if(store.has(result)){
+            return [store.get(result),i];
         }
-        seen.set(nums[i],i);
-    }   
+        store.set(nums[i],i);
+    }
+   
 };
 
 
