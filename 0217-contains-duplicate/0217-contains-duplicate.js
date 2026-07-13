@@ -8,8 +8,9 @@ var containsDuplicate = function (nums) {
         if (seen.has(nums[i])) {
             return true;
         }
-        seen.add(nums[i]);
+        else {
+            seen.add(nums[i]);
+        }
     }
     return false;
-
 };
