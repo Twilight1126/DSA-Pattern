@@ -10,10 +10,11 @@ var plusOne = function (digits) {
         else {
             digits[i]++;
             return digits;
+            
         }
 
     }
-    // edge case: input like [9,9,9] becomes [0,0,0] after loop, so prepend 1 to make [1,0,0,0]
+     // edge case: input like [9,9,9] becomes [0,0,0] after loop, so prepend 1 to make [1,0,0,0]
      digits.unshift(1);
     return digits;
 };
