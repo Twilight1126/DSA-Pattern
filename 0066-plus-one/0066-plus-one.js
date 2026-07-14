@@ -13,7 +13,7 @@ var plusOne = function (digits) {
         }
 
     }
-    // edge case when input is [9,9,9] to make add zero at last we have unshift so the result will be [1,1,1]
-    digits.unshift(1);
+    // edge case: input like [9,9,9] becomes [0,0,0] after loop, so prepend 1 to make [1,0,0,0]
+     digits.unshift(1);
     return digits;
 };
