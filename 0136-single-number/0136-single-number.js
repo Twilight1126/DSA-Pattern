@@ -12,6 +12,6 @@ var singleNumber = function (nums) {
         seen.add(nums[i]);
         }
     }
-     const [first] = seen;
+    const [first] = seen;
     return first;
 };
