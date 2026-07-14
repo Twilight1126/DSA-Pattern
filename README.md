@@ -133,6 +133,7 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0053-maximum-subarray](https://github.com/Twilight1126/DSA-Pattern/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Twilight1126/DSA-Pattern/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Twilight1126/DSA-Pattern/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Twilight1126/DSA-Pattern/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Twilight1126/DSA-Pattern/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Twilight1126/DSA-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Twilight1126/DSA-Pattern/tree/master/0217-contains-duplicate) |
@@ -222,4 +223,8 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Twilight1126/DSA-Pattern/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Twilight1126/DSA-Pattern/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
