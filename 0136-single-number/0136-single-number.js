@@ -12,5 +12,6 @@ var singleNumber = function (nums) {
         seen.add(nums[i]);
         }
     }
-    return seen.values().next().value;
+     const [first] = seen;
+    return first;
 };
