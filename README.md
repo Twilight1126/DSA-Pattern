@@ -229,4 +229,8 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Twilight1126/DSA-Pattern/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Twilight1126/DSA-Pattern/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
