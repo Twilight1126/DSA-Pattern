@@ -237,5 +237,6 @@ A quick reminder of *when* to reach for each pattern — useful before re-attack
 | [0596-classes-with-at-least-5-students](https://github.com/Twilight1126/DSA-Pattern/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Twilight1126/DSA-Pattern/tree/master/0619-biggest-single-number) |
 | [1148-article-views-i](https://github.com/Twilight1126/DSA-Pattern/tree/master/1148-article-views-i) |
+| [1729-find-followers-count](https://github.com/Twilight1126/DSA-Pattern/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Twilight1126/DSA-Pattern/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
